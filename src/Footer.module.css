@@ -1,0 +1,31 @@
+.footer{
+  height: 300px;
+  background-color: lightseagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footerBlock {
+  height: 200px;
+  border: 1px solid;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.linksBlock {
+  border: 1px solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.copyright {
+
+}
+
